@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> Acacia Residence Halls</title>
+
+<link rel="stylesheet" type="text/css" href="style.css">
+
+</head>
+<body>
+<div id="grad1"></div>
+
+<script type="text/javascript">
+document.write("<h1>Acacia Residence Halls and Centennial Dormitory</h1>")
+</script>
+
+<h3>Basic Information</h3>
+
+Location: Apacible Street
+<br>
+Category: undergraduate; co-ed
+<br>
+Rates: P 1,500.00
+<br>
+Contact Number: 435-2932
+</p>
+
+<img src="Acacia.jpg" class="mx-auto d-block" style="width: auto; height: auto; alt="Responsive image">
+<p>Source: lakansining.wordpress.com </p>
+
+<div>
+	Reference: <a href="http://upd.edu.ph/students/student-accommodation/" class=btn btn-primary" role="button">UPD Website</a>
+	<a href="http://upd.edu.ph/accommodations-in-up-diliman/" class=btn btn-primary" role="button">UPD Accomodation</a>
+</div>
+
+</body>
+</html>
