@@ -1,0 +1,8 @@
+#grad1 {
+    height: 120px;
+    background: maroon; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(maroon, white); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(maroon, white); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(maroon, white); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(maroon, white); /* Standard syntax (must be last) */
+}
